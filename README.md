@@ -12,9 +12,9 @@
 
 ## 当前范围
 
-初始收录 **26 个已接收行政区、52 份 Markdown**。`accepted_with_pending` 表示资料结构已接收，仍保留明确待判；不能说所有事实均已确认。逐区入口见 [DATA_STATUS](DATA_STATUS.md)。
+本版收录 **32 个已接收行政区、64 份 Markdown**。`accepted_with_pending` 表示资料结构已接收，仍保留明确待判；不能说所有事实均已确认。逐区入口见 [DATA_STATUS](DATA_STATUS.md)。
 
-酒馆当前仍是 **本体 v20261102／首都圈 SDQ20261102、22 区、34,693 个运行对象**。另 4 区已接收资料尚未运行发布。6 个仍在施工／收尾的区不纳入本次仓库，不接管中央分区任务，也不开始新铁路。
+当前运行发布为 **本体 v20261102.1／首都圈 SDQ20261102.1，32个来源区、62,575个运行对象**。在建新区不纳入本版，不接管中央分区任务，也不开始新铁路。
 
 ## 协作与发布
 
@@ -36,7 +36,7 @@
 
 ## 两个入口
 
-- 地点资料协作：https://github.com/yyxz223-stack/Living-Japan-Places
-- 酒馆扩展安装：[Living-Japan](https://github.com/yyxz223-stack/Living-Japan)，安装地址仍为 `https://github.com/yyxz223-stack/Living-Japan.git`，分支留空。
+- 地点资料协作：https://github.com/Girlsbandcry-lab/Living-Japan-Places
+- 酒馆扩展安装：[Living-Japan](https://github.com/Girlsbandcry-lab/Living-Japan)，安装地址仍为 `https://github.com/Girlsbandcry-lab/Living-Japan.git`，分支留空。
 
 参加资料协作不需要安装扩展或重启酒馆。遇到资料编辑问题，提供行政区代码、文件名、更改说明和错误文字；不要上传个人聊天、存档或凭据。
