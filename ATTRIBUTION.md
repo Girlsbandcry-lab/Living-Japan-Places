@@ -11,3 +11,5 @@ Overture 各提供方的许可不同，遵循每条记录原有来源及相应�
 工程片区、关系和引用资料按各自证据追溯；引用不代表原始网页或附件已随仓库重新发布。原始离线大包不随本仓库交付。项目自有资料的另行复用授权由所有者决定；本轮未代选整个仓库的总许可证，也不把数据许可套给扩展本体代码。
 
 随库保留：[CDLA Permissive 2.0全文](licenses/CDLA-Permissive-2.0.html)、[Overture官方来源许可快照](licenses/overture-attribution.html)、[Apache 2.0全文](licenses/Apache-2.0.txt)。这些许可分别覆盖对应来源，不代表另给项目自有资料选择了总许可证。
+
+[CC0 1.0 全文](licenses/CC0-1.0.txt)另行保留；Apache 2.0与CC0分别对应各自来源。
