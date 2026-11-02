@@ -1,0 +1,272 @@
+{
+  "format": "living-japan-places-initial-inventory-v1",
+  "sourceRelease": "2026-10-21.0",
+  "scopeDate": "2026-11-02",
+  "districtCount": 26,
+  "fileCount": 52,
+  "authoringTransport": "reversible_project_root_markers",
+  "runtimeReleaseUnchanged": "SDQ20261102; 22 districts; 34693 objects",
+  "note": "Initial public snapshot inventory. Later edits require a new checked inventory; this file is generated, not a second place master.",
+  "files": [
+    {
+      "path": "整区/档案/11101/工作/行政区主档.md",
+      "bytes": 533202,
+      "sha256": "2116b24773de727d3b465abcded40ed19ebf917ffbf0c321a3ec12e155c22ed5"
+    },
+    {
+      "path": "整区/档案/11101/工作/辅助记录.md",
+      "bytes": 18877775,
+      "sha256": "7c9bbce5b473cf6688fb5180e57372dcbb3fdf6024412c49e7ce9896d9b169b7"
+    },
+    {
+      "path": "整区/档案/11102/工作/行政区主档.md",
+      "bytes": 788611,
+      "sha256": "69d3a0a2fcaeb2fbc1047e6b32e6d054ff23140b085bf80434f7c46f217b6f0e"
+    },
+    {
+      "path": "整区/档案/11102/工作/辅助记录.md",
+      "bytes": 21761394,
+      "sha256": "fe4cbb3a8156dfd0b2770a5bb60fb39c2db29416a32e620a70d762ed6319a9b4"
+    },
+    {
+      "path": "整区/档案/11104/工作/行政区主档.md",
+      "bytes": 861230,
+      "sha256": "daba17c840ae5b71fcfb667129c6181be2945d3d3955b539f172fc162f295ce2"
+    },
+    {
+      "path": "整区/档案/11104/工作/辅助记录.md",
+      "bytes": 22779139,
+      "sha256": "3acfb73edb7e32317d8e5e4c686aeaea27b9d18170eb8c3e7ba8b03f6c1c4b37"
+    },
+    {
+      "path": "整区/档案/11105/工作/行政区主档.md",
+      "bytes": 759933,
+      "sha256": "39e993ab44c7048b1fa73d12c243e1a6793449e27a3d2939006891ebc1effad9"
+    },
+    {
+      "path": "整区/档案/11105/工作/辅助记录.md",
+      "bytes": 22584704,
+      "sha256": "1cdfac1d2b7f1ed06ae7132f3ea44451baebe6a9775677f8371e865031cc9bb5"
+    },
+    {
+      "path": "整区/档案/11106/工作/行政区主档.md",
+      "bytes": 594551,
+      "sha256": "18f4c1b5315db02647249a622b12abceb6223908e0c5457796997576571b1e0d"
+    },
+    {
+      "path": "整区/档案/11106/工作/辅助记录.md",
+      "bytes": 22990660,
+      "sha256": "624ec5de0e5204e027e7a9ed1ae74b2ab7ce61d6e9a8863413a3eb743f0e20c7"
+    },
+    {
+      "path": "整区/档案/11108/工作/行政区主档.md",
+      "bytes": 1154707,
+      "sha256": "e4f2631c7fe2b37d2bad60e5d9f4bb0c2473fa5618550a2be3551593806019a1"
+    },
+    {
+      "path": "整区/档案/11108/工作/辅助记录.md",
+      "bytes": 27642867,
+      "sha256": "cf4ae71f2070545982481b2bfb0be5267ad632d340b96c0a18a1ff5a13a468cd"
+    },
+    {
+      "path": "整区/档案/11109/工作/行政区主档.md",
+      "bytes": 703272,
+      "sha256": "ee82302015cc45163ecc0234cde0ba1dceb8f388f93dc0aca9547b0e78964d3d"
+    },
+    {
+      "path": "整区/档案/11109/工作/辅助记录.md",
+      "bytes": 20368744,
+      "sha256": "6046e246cd0abd1efa4fb24498ee6952643a702e8ff7ffbae87cf69bf29f6dc3"
+    },
+    {
+      "path": "整区/档案/11110/工作/行政区主档.md",
+      "bytes": 725881,
+      "sha256": "0d45d893969465c73eabe15be3f4308f0fb5fac71bf2806db42d916f0e290996"
+    },
+    {
+      "path": "整区/档案/11110/工作/辅助记录.md",
+      "bytes": 22845138,
+      "sha256": "e898098e01cc76424819839028b666bcc3e2ba315a5b14ff3dd62a3284b221fc"
+    },
+    {
+      "path": "整区/档案/12102/工作/行政区主档.md",
+      "bytes": 1043435,
+      "sha256": "3dc3d84e8511b121a7f15e08a3fc800a361c04b96a480f4b57fb43fe158d38bd"
+    },
+    {
+      "path": "整区/档案/12102/工作/辅助记录.md",
+      "bytes": 28435362,
+      "sha256": "a3a2e7f40e87fac4d3ac347fee054aa74378c6834ee52a30a38b3dc21bda9fa5"
+    },
+    {
+      "path": "整区/档案/12103/工作/行政区主档.md",
+      "bytes": 1305761,
+      "sha256": "ccb7ef079d738bfcba4a50736145e557a5ac5a9ee1f2bb8dbd4fecdd964e2117"
+    },
+    {
+      "path": "整区/档案/12103/工作/辅助记录.md",
+      "bytes": 32227292,
+      "sha256": "577a56f3b97920e054f3b08ad778dd6981348ab708e8229b1003f0c9748db2fc"
+    },
+    {
+      "path": "整区/档案/12104/工作/行政区主档.md",
+      "bytes": 824936,
+      "sha256": "c7566eaf65247e72baa99893e73b90ca862a42717eaf276cc805a44726fe1bac"
+    },
+    {
+      "path": "整区/档案/12104/工作/辅助记录.md",
+      "bytes": 24670875,
+      "sha256": "ba9a14b6b33e260ebc4b05d1637e1e7df6a52c40ab444de719838922b5bddefa"
+    },
+    {
+      "path": "整区/档案/12105/工作/行政区主档.md",
+      "bytes": 756161,
+      "sha256": "0940dbb6f076b61b812a998f1e9c52489018c517cf9bec4e8ac493b3a01389cc"
+    },
+    {
+      "path": "整区/档案/12105/工作/辅助记录.md",
+      "bytes": 22433765,
+      "sha256": "2d0a998b9bf11c4bfd147ee7a7e5b07f588a7dccc11fd3e02bacad5b8f1f5abc"
+    },
+    {
+      "path": "整区/档案/12106/工作/行政区主档.md",
+      "bytes": 1326462,
+      "sha256": "ac8219f9c3f534fbf0ed59000f31bce3d3eea6af57df96668811009efcfeade5"
+    },
+    {
+      "path": "整区/档案/12106/工作/辅助记录.md",
+      "bytes": 34985142,
+      "sha256": "54316667ec77d92cd775922d83e96a453757924b6a9e5cd9fdabd0cf5b6842e0"
+    },
+    {
+      "path": "整区/档案/14105/工作/行政区主档.md",
+      "bytes": 1415142,
+      "sha256": "de21d6d5594a7ed0339c8c60eae6111d1428e3959df8a5804d9fc1bf87520442"
+    },
+    {
+      "path": "整区/档案/14105/工作/辅助记录.md",
+      "bytes": 38086212,
+      "sha256": "0994af15322f6d7ce80a29cc03a6956897a862b310b4a3cd292c8f281656a84f"
+    },
+    {
+      "path": "整区/档案/14106/工作/行政区主档.md",
+      "bytes": 1352746,
+      "sha256": "ce5d1b9ea93d7d91e5e3864e389bd3a9896cbfd64a77af621008859ac1eb54f1"
+    },
+    {
+      "path": "整区/档案/14106/工作/辅助记录.md",
+      "bytes": 40692626,
+      "sha256": "98989707aedd1d3e794dd984aebb019b92fef5d2b82d8923c04e977d34c0c96d"
+    },
+    {
+      "path": "整区/档案/14107/工作/行政区主档.md",
+      "bytes": 948408,
+      "sha256": "cffc7f32a0b9275b9a7d77075c59dd6361799ff250a22724835c0679ec4c6a4f"
+    },
+    {
+      "path": "整区/档案/14107/工作/辅助记录.md",
+      "bytes": 33164598,
+      "sha256": "67fca04c018d81a43656b4657c4e78fea7da89dfe551c6cfb6cc097279c1e683"
+    },
+    {
+      "path": "整区/档案/14108/工作/行政区主档.md",
+      "bytes": 1519230,
+      "sha256": "fab49fd62671d4d1bbcdc558ef15ba13548852f06ecf59f2d90285072d804df1"
+    },
+    {
+      "path": "整区/档案/14108/工作/辅助记录.md",
+      "bytes": 32457982,
+      "sha256": "61ea4f084a4a3c33b45e5dff6a858e00c126539dcf5c3039dddfea581578e976"
+    },
+    {
+      "path": "整区/档案/14112/工作/行政区主档.md",
+      "bytes": 1362098,
+      "sha256": "f84b240eff49b6e0dc3f7dae64f98655250d8b0bff29d9b8fa39df3652ac60fd"
+    },
+    {
+      "path": "整区/档案/14112/工作/辅助记录.md",
+      "bytes": 33378329,
+      "sha256": "209163a8a70ffddcb044e8214500e5ad952f028b3f4bf9a8de261168abdbf460"
+    },
+    {
+      "path": "整区/档案/14113/工作/行政区主档.md",
+      "bytes": 1054277,
+      "sha256": "76d020d7bbdbc7843c0aa009ea30d823f2b2be661c7fbcf31f869c56b4150b7d"
+    },
+    {
+      "path": "整区/档案/14113/工作/辅助记录.md",
+      "bytes": 28408337,
+      "sha256": "42376d655467a5dfed10485d5fccaf3d40af635f44256ae25823f81258eaa827"
+    },
+    {
+      "path": "整区/档案/14114/工作/行政区主档.md",
+      "bytes": 658470,
+      "sha256": "0598bc9e2a79adadb24a339580ab9acf5275d5a0d481893e93506e811be9feb7"
+    },
+    {
+      "path": "整区/档案/14114/工作/辅助记录.md",
+      "bytes": 18881063,
+      "sha256": "91c331786a44532df4a393f9aec43cd82d0103207dbf603af199a80a191a99cb"
+    },
+    {
+      "path": "整区/档案/14115/工作/行政区主档.md",
+      "bytes": 595469,
+      "sha256": "32a3f588fd03f695a55da1296e3c67321ce3477da962927302afed03f96545ec"
+    },
+    {
+      "path": "整区/档案/14115/工作/辅助记录.md",
+      "bytes": 25232639,
+      "sha256": "cce3a5595f2d4a1660711d34f8764769481ccd6f015a7a944f4fff4c2ab5457b"
+    },
+    {
+      "path": "整区/档案/14116/工作/行政区主档.md",
+      "bytes": 718066,
+      "sha256": "12542402f757220fd92774e3a2dedaace4643246c1d00b2c83bb29a41838ed50"
+    },
+    {
+      "path": "整区/档案/14116/工作/辅助记录.md",
+      "bytes": 20534792,
+      "sha256": "54e0a54530c770674757266041004fb76f1813d710c6deac4f3b8372bd3d9bbe"
+    },
+    {
+      "path": "整区/档案/14132/工作/行政区主档.md",
+      "bytes": 1179848,
+      "sha256": "a1ebd454ed3da7c4bde714f2a52a4396738ea6f3ade7f312889f06af196beacc"
+    },
+    {
+      "path": "整区/档案/14132/工作/辅助记录.md",
+      "bytes": 26710567,
+      "sha256": "1a4ac2757371eafee8f4c5a9afefbe9e2d38363d4b59dc46a8d2401d013eeada"
+    },
+    {
+      "path": "整区/档案/14135/工作/行政区主档.md",
+      "bytes": 1461648,
+      "sha256": "6c3579fed1e50b9c6f9942abf0b75889da359260c34a8952508e9087ec246626"
+    },
+    {
+      "path": "整区/档案/14135/工作/辅助记录.md",
+      "bytes": 41500458,
+      "sha256": "f7c314749d96af54ad653268dcb480fdb5b2a26cb5f6c5b324dc87a4de7a5a05"
+    },
+    {
+      "path": "整区/档案/14136/工作/行政区主档.md",
+      "bytes": 1136382,
+      "sha256": "5d7dc9623c5556f678024870912e57e56b90e43d322cff796dfbf9c6918d36ba"
+    },
+    {
+      "path": "整区/档案/14136/工作/辅助记录.md",
+      "bytes": 33290022,
+      "sha256": "84be0dd6ac9b23dd508f7f658736525f1f4e22abe3a247ddf3c14c48c77ba6fd"
+    },
+    {
+      "path": "整区/档案/14137/工作/行政区主档.md",
+      "bytes": 879668,
+      "sha256": "1646202afa3edf8b43199dc742818a2e7f80f1d9894123056ddda4de00db52d3"
+    },
+    {
+      "path": "整区/档案/14137/工作/辅助记录.md",
+      "bytes": 26696478,
+      "sha256": "4fa2f9a575fa6ee3eca5f339c51ccbecf9507c9c56363cfba30a405584b1bd66"
+    }
+  ]
+}
